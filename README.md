@@ -1,5 +1,5 @@
-### Hello World 👋
-I am Rome.
+### I am Rome. 🏛
+
 
 <br>
 ## Expertise
