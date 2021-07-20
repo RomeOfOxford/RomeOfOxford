@@ -1,7 +1,6 @@
 ### Hello World 👋
 I am Rome.
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
+
 <br>
 ## Expertise
 
